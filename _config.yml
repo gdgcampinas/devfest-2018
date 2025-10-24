@@ -11,13 +11,13 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "DevFest Campinas"
-email: "contato@gdg-campinas.org"
+email: "gdgcampinascontato@gmail.com"
 description: "O Devfest é uma conferência de tecnologia voltada para interessados no assunto de Campinas e região."
 baseurl: "/devfest"
-url: "https://gdg-campinas.github.io"
+url: "https://gdgcampinas.github.io"
 # permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-campinas.github.io"
+googleAnalyticsSiteUrl: "gdgcampinas.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 mapsApiKey: "AIzaSyBKggjiyNZRv2LMI86wSOAu2f2yZzUXArI"
 
@@ -33,7 +33,7 @@ aboutGDG:
 organizerName: "GDG Campinas"
 organizerAlternateName: "Google Developer Group Campinas"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "contato@gdg-campinas.org"
+organizerEmail: "gdgcampinascontato@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.meetup.com/gdgcampinas/"
 
@@ -48,7 +48,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "https://goo.gl/forms/HZdUM2UqPVusZci12"
 c4pTitle: "Submeta um conteúdo"
 c4pDescription: "Se tiver interesse em compartilhar seu conhecimento com a comunidade submeta uma PALESTRA, se voluntarie como MENTOR e/ou solicite um estande para a sua COMUNIDADE"
-c4sponsorsUrl: "mailto:contato@gdg-campinas.org?Subject=%5BPatrocinio%5D%20Devfest%202018"
+c4sponsorsUrl: "mailto:gdgcampinascontato@gmail.com?Subject=%5BPatrocinio%5D%20Devfest%202018"
 c4mentorUrl: "https://goo.gl/forms/qIcrpQv6mXIyJ2V33"
 c4mentorTitle: "Inscreva-se para mentoria"
 c4mentorDescription: ""
@@ -65,7 +65,7 @@ navigationLinks:
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 #  - {link: "https://goo.gl/forms/giwSyQAtqV4kUgHC3", text: "Torne-se um membro"}
  - {permalink: "/team/", text: "Time"}
- - {link: "https://github.com/gdg-campinas/devfest-code-of-conduct/blob/master/README.md", text: "Código de Conduta"} 
+ - {link: "https://github.com/gdgcampinas/devfest-code-of-conduct/blob/master/README.md", text: "Código de Conduta"} 
  
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223", text: "Compre seu ingresso"}
@@ -119,7 +119,7 @@ media:
     total: 16
   button:
     text: "Devfest 2017"
-    link: "https://gdg-campinas.github.io/devfest-2017/"
+    link: "https://gdgcampinas.github.io/devfest-2017/"
 
 # Location Block
 locationBlockTitle: "Localização"
@@ -310,7 +310,7 @@ socialLinks:
  - {link: "https://www.facebook.com/gdgcampinas/", icon: "facebook"}
  - {link: "https://www.linkedin.com/company-beta/15240699/", icon: "linkedin"}
  - {link: "https://twitter.com/gdgcampinas", icon: "twitter"}
- - {link: "https://plus.google.com/+GDG-CampinasOrg", icon: "google-plus"} 
+ - {link: "https://plus.google.com/+gdgcampinasOrg", icon: "google-plus"} 
  
 #  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
@@ -320,17 +320,17 @@ footerBlocks:
    - {link: "https://www.meetup.com/gdgcampinas/", text: "Meetup"}
    - {link: "https://www.facebook.com/groups/gdgcampinas/", text: "Grupo Facebook"}
    - {link: "https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ", text: "Whatsapp"}
-   - {link: "https://gdg-campinas.github.io/devfest/", text: "DevFest Campinas 2017"}
+   - {link: "https://gdgcampinas.github.io/devfest/", text: "DevFest Campinas 2017"}
  -
   title: "Eventos 2018"
   links:
-   - {link: "https://gdg-campinas.github.io/androidfest/", text: "AndroidFest"}
-   - {link: "https://gdg-campinas.github.io/datafest/", text: "DataFest"}   
-   - {link: "https://gdg-campinas.github.io/qualityfest/", text: "QualityFest"}
+   - {link: "https://gdgcampinas.github.io/androidfest/", text: "AndroidFest"}
+   - {link: "https://gdgcampinas.github.io/datafest/", text: "DataFest"}   
+   - {link: "https://gdgcampinas.github.io/qualityfest/", text: "QualityFest"}
  -
   title: "Contatos"
   links:
-   - {link: "mailto:contato@gdg-campinas.org", text: "contato@gdg-campinas.org"}
+   - {link: "mailto:gdgcampinascontato@gmail.com", text: "gdgcampinascontato@gmail.com"}
 #  -
 #   title: "FAQ"
 #   links:
