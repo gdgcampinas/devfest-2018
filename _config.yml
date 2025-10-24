@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "DevFest Campinas"
 email: "gdgcampinascontato@gmail.com"
 description: "O Devfest é uma conferência de tecnologia voltada para interessados no assunto de Campinas e região."
-baseurl: "/devfest"
+baseurl: "/devfest-2018"
 url: "https://gdgcampinas.github.io"
 # permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -320,8 +320,8 @@ footerBlocks:
    - {link: "https://www.meetup.com/gdgcampinas/", text: "Meetup"}
    - {link: "https://www.facebook.com/groups/gdgcampinas/", text: "Grupo Facebook"}
    - {link: "https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ", text: "Whatsapp"}
-   - {link: "https://gdgcampinas.github.io/devfest-2018/", text: "DevFest Campinas 2017"}
- -
+   - {link: "https://gdgcampinas.github.io/devfest-2017/", text: "DevFest Campinas 2017"}
+ 
   title: "Eventos 2018"
   links:
    - {link: "https://gdgcampinas.github.io/androidfest/", text: "AndroidFest"}
